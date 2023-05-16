@@ -2,7 +2,7 @@
 
 A simple TODO app written in React using Next.js.
 
-> Want to learn how to build this and deploy it to [Back4app Containers](https://www.back4app.com/container-as-a-service-caas)? Check out the [article](https://blog.back4app.com/deploy-docker-container/).
+
 
 ## Development
 
